@@ -1,0 +1,10 @@
+{
+	"id": "Comics-Table",
+	"name": "Comics Table",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A table to display my comic notes",
+	"author": "acarter5",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}
